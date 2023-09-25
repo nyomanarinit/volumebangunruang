@@ -1,12 +1,13 @@
 # volumebangunruang
-1.1 Flowchart
+1. Flowchart
 ![alt text](flowchartposttest.png?raw=true)
 Gambar 1.1 Flowchart Sistem
 
-1.2 Penjelasan dan Output Program
+2. Penjelasan dan Output Program
 Tampilan awal program 
 Pada awal program pengguna diminta untuk memasukkan nama pengguna, nim dan password (input default-nya), Nama: "arini" , NIM: "2309116002" dan Password: "123"
-![alt text](flowchartposttest.png?raw=true)
+![alt text](gambar hasil output/Tampilan awal setelah login.png?raw=true)
+Gambar 1.2 Tampilan awal setelah login
 
 
 Terdapat tampilan daftar pilihan  untuk menghitung volume bangun ruang, diantaranya (A, B, C, dan D)
