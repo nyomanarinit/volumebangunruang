@@ -6,7 +6,7 @@ Gambar 1.1 Flowchart Sistem
 2. Penjelasan dan Output Program
 Tampilan awal program 
 Pada awal program pengguna diminta untuk memasukkan nama pengguna, nim dan password (input default-nya), Nama: "arini" , NIM: "2309116002" dan Password: "123"
-![alt text](gambar hasil output/Tampilan awal setelah login.png?raw=true)
+![alt text](Tampilanawalsetelahlogin.png?raw=true)
 Gambar 1.2 Tampilan awal setelah login
 
 
