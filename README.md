@@ -15,7 +15,7 @@ Masing-masing pilihan menghasilkan hasil yang berbeda
 ![alt text](flowchartposttest.png?raw=true)
 
 Setelah memilih pengguna diminta untuk memasukkan data seperti jari-jari, tinggi, dan alas dari bangun ruang.
-![alt text](flowchartposttest.png?raw=true)
+![alt text](gambar hasil output/Tampilan Outputnya.png?raw=true)
 
 Kemudian untuk mengakhiri, dengan menggunakan pilihan D
 
